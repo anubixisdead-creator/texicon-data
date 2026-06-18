@@ -122,6 +122,11 @@
   {
     "name": "TEST123",
     "type": "EP",
-    "songs": []
+    "songs": [
+      {
+        "title": "TEST",
+        "lyrics": "[Intro]\n\n[Verse 1]\n\n[Pre-Chorus]\n\n[Chorus]\n\n[Verse 2]\n\n[Bridge]\n\n[Breakdown]\n\n[Outro]"
+      }
+    ]
   }
 ]
